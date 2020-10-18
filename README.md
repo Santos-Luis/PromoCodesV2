@@ -38,7 +38,8 @@ Promo codes API made with Symfony
     * **Description:** 
         * Update an existent promo code attributes.
     * **Return Values:**
-        * Invalid promo code<br>Success message
+        * Invalid promo code
+        * Success message
        
 * **/api/validate/{promoCodeId}/{userId}**:
     * **HTTP Method:** 
